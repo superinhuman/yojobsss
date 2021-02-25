@@ -1,5 +1,5 @@
 <?php
-define('DB_SERVER','ec2-52-70-67-123.compute-1.amazonaws.com');
+define('DB_SERVER','ec2-52-70-67-123.compute-1.amazonaws.com:5432');
 define('DB_USER','vrqpfaowfgkupp');
 define('DB_PASS' ,'242f8c562c09d8204b09f1d13bf25219ecea69cf60138ad0f1ed47d333970373');
 define('DB_NAME', "darhvdq75edvoj");
