@@ -10,11 +10,11 @@
         <!-- Header -->
 			<header id="header">
 				<div class="inner">
-					<a href="index.html" class="logo"><strong>YoJobs</strong>.com</a>
+					<a href="index.php" class="logo"><strong>YoJobs</strong>.com</a>
 					<nav id="nav">
-						<a href="index.html">Home</a>
-						<a href="about.html">Get To Know Us</a>
-						<a href="contact.html">Contact Us</a>
+						<a href="index.php">Home</a>
+						<a href="about.php">Get To Know Us</a>
+						<a href="contact.php">Contact Us</a>
 					</nav>
 					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 				</div>
